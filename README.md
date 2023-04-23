@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web pages**
 
-- 💬 Ask me about **Html / Css**
+- 💬 Ask me about **HTML / CSS / JS / REACT**
 
 - 📫 How to reach me **albacecilia10@gmail.com**
 
