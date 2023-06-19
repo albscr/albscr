@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my Portafolio:** https://alba-arenas-portfolio.vercel.app/
 
-- 🌱 I’m currently learning **React / Node.js**
+- 🌱 I’m currently working with **React / Node.js**
 
 - 👯 I’m looking to collaborate on **Web pages**
 
